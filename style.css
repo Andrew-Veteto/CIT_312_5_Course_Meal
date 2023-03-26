@@ -1,0 +1,28 @@
+body{
+    background-color: #E8DCF5;
+}
+
+/* font-family: 'Caveat', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Shadows Into Light', cursive; */
+
+#heading{
+    background-color: beige;
+    color: #A8A887;
+    font-family: 'Indie Flower';
+}
+
+#card{
+    border: 5px solid beige; 
+    border-radius: 5px;
+    align-items: center;
+    background-color: white;
+    font-family: 'Caveat';
+}
+
+#card img{
+    width: 250px;
+    height: 250px;
+    padding-top: 3px;
+    border-radius: 5px;
+}
